@@ -1,2 +1,2 @@
 console.log('index.js');
-console.log('vesion5');
+console.log('vesion6');
